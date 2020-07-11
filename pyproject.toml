@@ -8,6 +8,8 @@ authors = ["Leo Kukharau <kuhorev.leonid@gmail.com>"]
 python = "^3.8"
 pandas = "^1.0.5"
 jupyterlab = "^2.1.5"
+seaborn = "^0.10.1"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
